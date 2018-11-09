@@ -1,8 +1,6 @@
-# Mini Jump/Social Bicycles Display
+# ESP32/8266-based Motion Sensing App-controlled Pet Toy
 
-<img src="https://github.com/mmichon/esp-jump-on-it/blob/master/screenshot.jpg?raw=true" width=300>
-
-This project implements a motion-sensing app-controlled single-axis pet toy on Arduino-based firmware  and a Blynk-based frontend.
+This project implements a motion-sensing app-controlled single-axis pet toy on Arduino-based firmware and a Blynk-based frontend.
 
 ## Hardware Needed
 * ESP8266 or ESP32 microcontroller, like a [Wemos D1 Mini](https://www.aliexpress.com/store/product/WEMOS-D1-mini-Pro-16M-bytes-external-antenna-connector-ESP8266-WIFI-Internet-of-Things-development-board/1331105_32724692514.html)
