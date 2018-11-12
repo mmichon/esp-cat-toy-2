@@ -10,6 +10,10 @@ This project implements a motion-sensing app-controlled single-axis pet toy on A
 * [Platformio](https://platformio.org/) (optional for dependency management)
 
 ## Configuration
+
+<img src="https://github.com/mmichon/esp-cat-toy-2/blob/master/circuit.png?raw=true" width="500">
+<img src="https://github.com/mmichon/esp-cat-toy-2/blob/master/blynk.jpg?raw=true" height="500">
+
 1. Wire up the circuit like [this](https://github.com/mmichon/esp-cat-toy-2/blob/master/circuit.png?raw=true) (or check out the pin config in the code and wire it up according to your components)
 1. Configure your Blynk app like [this](https://github.com/mmichon/esp-cat-toy-2/blob/master/blynk.jpg?raw=true)
 1. Modify `include/config.h` with your secrets
